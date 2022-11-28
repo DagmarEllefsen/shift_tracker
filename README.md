@@ -32,5 +32,22 @@ nice to:
 - work as an app in the app store (first priority for iphone)
 
 build with:
-- netlify + react?
 - python + flask
+- deploy with: render 
+- somewhere to do sql: elephant sql 
+
+steps:
+1. do sql: designing the database and making sure I can talk to it
+2. basic flask (write it in .py file )
+3. front end stuff
+
+
+Database design:
+table1: doctor_info
+doctor_id, first_name, last_name, country, region
+
+table2: shift_info
+shift_id, doctor_id, start_datetime, end_datetime, day_or_night, shift_type, region, patients_seen
+
+table 3: payment
+salary_id, shift_type, hourly_rate, extra_per_patient

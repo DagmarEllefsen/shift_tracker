@@ -1,6 +1,8 @@
 # shift_tracker
 practise project to fail and learn
 
+[Click here to view the fancy page](https://github.com/DagmarEllefsen/shift_tracker/blob/main/folder/fancy_page.html)
+
 data: 
 - all earnings reported in DKKR
 - all time stamps in GMT+1

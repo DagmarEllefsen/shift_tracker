@@ -1,7 +1,7 @@
 # shift_tracker
 practise project to fail and learn
 
-[Click here to view the fancy page](https://github.io/DagmarEllefsen/shift_tracker/folder/)
+[Click here to view the fancy page]([https://github.io/DagmarEllefsen/shift_tracker/folder](https://rawgit.com/DagmarEllefsen/shift_tracker/blob/main/index.html)
 
 data: 
 - all earnings reported in DKKR

@@ -14,6 +14,7 @@ Requirements:
     - Name
     - patients seen (?)
     - salary per patient
+    - shift type (driving, phone, consultation)
 
 
 - Output:
@@ -66,7 +67,7 @@ date DATE,
 patients_seen SMALLINT,
 km NUMERIC, 
 total_earnings NUMERIC not null,
-CONSTRAINT fk_doctor FOREIGN KEY(doctor_id) REFERENCES doctor_info(doctor_id)
+FOREIGN KEY(doctor_id) REFERENCES doctor_info(doctor_id)
 );
 
 table 3: payment
